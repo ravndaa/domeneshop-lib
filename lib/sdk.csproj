@@ -3,9 +3,11 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>Domeneshop.DnsApi</PackageId>
-  <Version>0.0.1-alpha</Version>
+  <Version>0.0.2-alpha</Version>
   <Authors>Stian Ravndal</Authors>
   <Company>config.re</Company>
+  <PackageDescription>This is a domene.shop DNS library!</PackageDescription>
+    <RepositoryUrl>https://github.com/ravndaa/domeneshop-lib</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
