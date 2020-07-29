@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>Domeneshop.DnsApi</PackageId>
+  <Version>0.0.1-alpha</Version>
+  <Authors>Stian Ravndal</Authors>
+  <Company>config.re</Company>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NewtonSoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+</Project>
